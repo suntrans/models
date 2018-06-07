@@ -1,0 +1,41 @@
+{
+
+    "name": "suntrans/models",
+
+    "description": "models composer",
+
+    "license": "MIT",
+
+    "keywords": ["suntrans"],
+
+    "version": "1.0.0",
+
+    "authors": [
+
+        {
+
+            "name": "JsonXiang",
+
+            "email": "13762109419@163.com"
+
+        }
+
+    ],
+
+  "require": {
+    "php": "^5.5 || ^7.0"
+  },
+
+ 
+
+    "autoload": {
+
+        "psr-0": {
+
+            "Jenner\\Zebra\\JsonXiang": "src/"
+
+        }
+
+    }
+
+}
